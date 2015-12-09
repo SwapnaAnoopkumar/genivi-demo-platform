@@ -16,3 +16,6 @@
 [submodule "meta-renesas"]
 	path = meta-renesas
 	url = git://github.com/slawr/meta-renesas.git
+[submodule "meta-genivi-aa-demo"]
+	path = meta-genivi-aa-demo
+	url = ssh://git-genivi@git.projects.genivi.org/android_auto_connect_layers.git
